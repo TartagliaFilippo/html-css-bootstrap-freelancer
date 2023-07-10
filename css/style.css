@@ -28,4 +28,5 @@ section:nth-child(odd) {
 
 .box-h {
   height: 100px;
+  background-color: chocolate;
 }
