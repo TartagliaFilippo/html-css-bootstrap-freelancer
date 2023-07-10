@@ -3,3 +3,10 @@
 /* UTILS */
 
 /* STRUCTURE */
+#header {
+  height: 100px;
+}
+
+#header .row {
+  height: 100px;
+}
