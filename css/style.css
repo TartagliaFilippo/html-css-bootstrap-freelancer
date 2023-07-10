@@ -10,3 +10,22 @@
 #header .row {
   height: 100px;
 }
+
+section:nth-child(odd) {
+  background-color: aquamarine;
+  color: white;
+}
+
+/* DEBUG_SIZE */
+.bordered {
+  border: 1px dashed black;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+}
+
+.box-h {
+  height: 100px;
+}
