@@ -23,6 +23,11 @@ section {
 }
 
 /* UTILS */
+.riga {
+  height: 3px;
+  width: 60px;
+  background-color: var(--white);
+}
 
 /* STRUCTURE */
 #header {
