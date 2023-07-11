@@ -27,6 +27,7 @@ section {
 /* STRUCTURE */
 #header {
   background-color: var(--header);
+  color: var(--white);
   height: 100px;
 }
 
