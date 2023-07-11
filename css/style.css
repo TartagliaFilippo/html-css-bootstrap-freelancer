@@ -29,6 +29,10 @@ section {
   background-color: var(--white);
 }
 
+section:nth-child(even) .riga {
+  background-color: var(--black);
+}
+
 /* STRUCTURE */
 #header {
   background-color: var(--header);
