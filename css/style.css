@@ -46,10 +46,22 @@ section:nth-child(even) .riga {
 
 #footer {
   background-color: var(--footer);
+  color: var(--white);
 }
 
 #footer .footer-bottom {
+  min-height: 100px;
   background-color: var(--header);
+}
+
+.icons > div {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.icons i {
+  line-height: 30px;
 }
 
 /* DEBUG_SIZE */
