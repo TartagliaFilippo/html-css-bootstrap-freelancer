@@ -34,14 +34,23 @@ section:nth-child(even) .riga {
 }
 
 /* STRUCTURE */
-#header {
+/* #header {
   background-color: var(--header);
   color: var(--white);
-  height: 100px;
+  min-height: 100px;
 }
 
 #header .row {
   height: 100px;
+} */
+
+.bg-custom-dark {
+  background-color: var(--header) !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: var(--white) !important;
 }
 
 #footer {
